@@ -13,7 +13,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 header: 'Sample Course Name'
 footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU CE204 Week-1'
 title: "Sample Course Name"
-author: "Author: Asst. Prof. Dr. Uğur CORUH"
+author: "Hamza Eren Gençalioğlu"
 date:
 subtitle: "Sample Course Module Name"
 geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
@@ -35,7 +35,7 @@ disable-header-and-footer: false
 header-left:
 header-center:
 header-right:
-footer-left: "© Asst. Prof. Dr. Uğur CORUH"
+footer-left: "© Hamza Eren Gençalioğlu"
 footer-center: "License: WTFPL"
 footer-right:
 subparagraph: true
@@ -46,15 +46,15 @@ math: katex
 
 <!-- _backgroundColor: aquq -->
 
-<!-- _color: orange -->
+<!-- _color: black -->
 
 <!-- paginate: false -->
 
-## Sample Course Name
+## CE103 Algorithms and Programming I
 
-### Week-1 (Sample Course Module Name)
+### Week-4
 
-#### Spring Semester, 20XX-20XX
+#### Introduction to Code Reusability and Automated Testing
 
 Download [DOC](week-1.en.md_doc.pdf), [SLIDE](week-1.en.md_slide.pdf), [PPTX](week-1.en.md_slide.pptx)
 
@@ -66,31 +66,36 @@ Download [DOC](week-1.en.md_doc.pdf), [SLIDE](week-1.en.md_slide.pdf), [PPTX](we
 
 ### Outline
 
-- Sample Outline
-- Sample Outline
-- Sample Outline
-- Sample Outline
+- Introduction to Code Reusability and Automated Testing
+- Shared Library Development
+-C
+-C++
+-C#
+-Java
+- Unit Testing
+-C
+-C++
+-C#
+-Java
+- Continues Integration Platforms
 
 ---
 
-## **Sample Topic**
+## **Introduction to Code Reusability and Automated Testing**
 
 ---
 
-### Sample Topic
+### Introduction to Code Reusability and Automated Testing
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-  - when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 
-    - but also the leap into electronic typesetting, remaining essentially unchanged. 
-      - It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+- During this course, we will use entry-level shared library development and their tests and test automation. Also, we will see TDD(Test Driven Development) approach.
+
 
 ---
 
 ### Sample Images-1
 
-- **What is Lorem Ipsum?**
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+- **Selected Development Environment**
+During this course, we will use Windows OS, Eclipse and Visual Studio Community Edition environments for examples.
 
 ![center h:400px](assets/sample-1.png)
 
@@ -98,7 +103,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Sample Images-2
 
-- **What is Lorem Ipsum?**
+- **Each example will include two function**
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
 ![bg right:50% h:400px](assets/sample-1.png)

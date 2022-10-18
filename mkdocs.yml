@@ -1,23 +1,23 @@
 # Project information
-site_name: RTEU Course Notes Templates
+site_name: Computer Engineering'
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
-site_author: 'Asst. Prof. Dr. Uğur CORUH'
-site_url: 'https://ucoruh.github.io/course-note-template/'
+site_author: 'Hamza Eren Gençalioğlu'
+site_url: 'https://hamzaerengencalioglu.github.io/sample-git/'
 
 site_description_en: >-
-    Course Notes Templates
+    Computer Engineering
 
 site_description_tr: >-
-    Ders Notu Şablonu
+    Bilgisayar Mühendisliği
 
 # Repository
 repo_name: 'GitHub'
-repo_url: 'https://github.com/ucoruh/course-note-template'
+repo_url: 'https://hamzaerengencalioglu.github.io/sample-git/'
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2019 - 2022 Asst. Prof. Dr. Uğur CORUH
+copyright: Copyright &copy; 2019 - 2022 Hamza Eren Gençalioğlu
 
 #theme:
 #    name: material
@@ -68,16 +68,16 @@ theme:
     
   palette:
     - scheme: default
-      primary: lime
-      accent: lime
-      toggle:
-        icon: material/toggle-switch
+      primary: light blue
+      accent: red
+      toggle: 
+        icon: material/brightness-1
         name: Switch to dark mode
     - scheme: slate
-      primary: blue grey
-      accent: blue grey
+      primary: pink
+      accent: pink
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-5
         name: Switch to light mode
   
 #  palette:
